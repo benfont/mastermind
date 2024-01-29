@@ -4,8 +4,6 @@
 	conversion de grados Fahrenheit a grados Celsius
 
 	capitulo1, variables, expresiones e iteraciones
-	formula para pasar de celsius a fahrenheit
-		celsius = 5*(fahr-32)/9;
 */
 
 #include <stdio.h>
